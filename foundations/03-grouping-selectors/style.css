@@ -1,0 +1,16 @@
+.black-button ,
+.colored-button {
+   font-size: 28px;
+   font-family: Helvetica,"Times New Roman", sans-serif;
+
+}
+
+.black-button {
+    background-color:#000000;
+    color: #ffffff;
+    font-weight: 700;
+}
+
+.colored-button {
+    background-color: rgb(255,255, 0);
+}
